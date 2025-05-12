@@ -2,24 +2,6 @@
 Calibrating the robot's environment using camera calibration with DLT, followed by tasks such as cube picking and transporting it to a designated location
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>3D-Computer-Vision-And-Robotics</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #f8f9fa; }
-        h1, h2, h3 { color: #343a40; }
-        img { max-width: 100%; height: auto; margin-top: 10px; margin-bottom: 20px; }
-        code { background-color: #e9ecef; padding: 2px 4px; border-radius: 4px; }
-        pre { background-color: #e9ecef; padding: 10px; border-radius: 4px; }
-    </style>
-</head>
-<body>
-
-<h1>3D-Computer-Vision-And-Robotics</h1>
-
-<p>This project demonstrates a robot's ability to understand and interact with its 3D environment using computer vision. The robot is calibrated using a camera and Direct Linear Transform (DLT) technique, enabling it to locate colored cubes and transport them to specific targets.</p>
 
 <h2>📷 1. Camera Calibration (DLT)</h2>
 <p>To convert 2D image coordinates into 3D world coordinates, the camera was calibrated using the <strong>Direct Linear Transform (DLT)</strong>. A known set of 3D-2D correspondences was used to estimate the projection matrix <code>P</code>, allowing us to reconstruct 3D coordinates from a single image.</p>
@@ -53,11 +35,6 @@ Calibrating the robot's environment using camera calibration with DLT, followed 
     <li><strong>Orientation Angle</strong> required for the arm to align with the cube’s position.</li>
 </ul>
 
-<h3>Example Formulae:</h3>
-<pre>
-Distance = √((x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²)
-Angle (in XY-plane) = arctangent2(Δy, Δx)
-</pre>
 
 </body>
 </html>
