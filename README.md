@@ -4,17 +4,7 @@ Calibrating the robot's environment using camera calibration with DLT, followed 
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>3D-Computer-Vision-And-Robotics</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #f8f9fa; }
-        h1, h2, h3 { color: #343a40; }
-        img { max-width: 100%; height: auto; margin-top: 10px; margin-bottom: 20px; }
-        code { background-color: #e9ecef; padding: 2px 4px; border-radius: 4px; }
-        pre { background-color: #e9ecef; padding: 10px; border-radius: 4px; }
-    </style>
-</head>
+
 <body>
 
 <h1>3D-Computer-Vision-And-Robotics</h1>
