@@ -53,11 +53,6 @@ Calibrating the robot's environment using camera calibration with DLT, followed 
     <li><strong>Orientation Angle</strong> required for the arm to align with the cube’s position.</li>
 </ul>
 
-<h3>Example Formulae:</h3>
-<pre>
-Distance = √((x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²)
-Angle (in XY-plane) = arctangent2(Δy, Δx)
-</pre>
 
 </body>
 </html>
