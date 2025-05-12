@@ -2,14 +2,6 @@
 Calibrating the robot's environment using camera calibration with DLT, followed by tasks such as cube picking and transporting it to a designated location
 
 
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-
-<h1>3D-Computer-Vision-And-Robotics</h1>
-
-<p>This project demonstrates a robot's ability to understand and interact with its 3D environment using computer vision. The robot is calibrated using a camera and Direct Linear Transform (DLT) technique, enabling it to locate colored cubes and transport them to specific targets.</p>
 
 <h2>📷 1. Camera Calibration (DLT)</h2>
 <p>To convert 2D image coordinates into 3D world coordinates, the camera was calibrated using the <strong>Direct Linear Transform (DLT)</strong>. A known set of 3D-2D correspondences was used to estimate the projection matrix <code>P</code>, allowing us to reconstruct 3D coordinates from a single image.</p>
