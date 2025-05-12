@@ -22,7 +22,8 @@ Calibrating the robot's environment using camera calibration with DLT, followed 
 </ul>
 
 <h3>🔲 2D View of Localized Points (Z Flattened)</h3>
-<img src="newplot.png" alt="2D Plot of Localized Points">
+<img src="Project/3dplot.png" alt="2D Plot of Localized Points">
+<img src="Project/3dplot.png" alt="2D Plot of Localized Points">
 
 <h3>🧭 3D Spatial Layout</h3>
 <p>The following 3D plot visualizes the spatial relationship between robot components and objects:</p>
