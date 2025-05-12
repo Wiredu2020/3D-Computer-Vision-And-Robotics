@@ -1,5 +1,8 @@
 last_day
-*png
+calibration
 *jpeg
 Test images-20250507
 local.ipynb
+__pycache__
+our_test
+test_images
