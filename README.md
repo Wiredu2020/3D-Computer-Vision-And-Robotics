@@ -35,7 +35,7 @@ Calibrating the robot's environment using camera calibration with DLT, followed 
     <li><strong>Euclidean Distance</strong> from the robot's arm to each cube.</li>
     <li><strong>Orientation Angle</strong> required for the arm to align with the cube’s position.</li>
 </ul>
-[![Watch the video](https://youtu.be/83yQuB9Ru-Y)](https://youtu.be/83yQuB9Ru-Y)
+[![Watch the video](output.png)](https://youtu.be/83yQuB9Ru-Y)
 
 
 </body>
